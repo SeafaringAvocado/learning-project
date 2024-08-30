@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head {
+    text-align: center;
+}
+
+.title {
+    font-size: 64px;
+    margin-bottom: 0px;
+}
+
+.description {
+    font-size: 32px;
+    margin-top: 0px;
+}
+
+button {
+    height: 250px;
+    width: 500px;
+    font-size: 32px;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.album {
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin: auto;
+    border: solid 1px black;
+}
+
+.album-title {
+    font-size: 32px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
